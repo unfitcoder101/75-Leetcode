@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-
+// some little error or maybe not 
 
 class Solution {
 public:
@@ -13,13 +13,13 @@ public:
         for(char c : word1) mp1[c]++;
         for(char c : word2) mp2[c]++;
 
-        // Both strings must have the same number of distinct characters
-        // since frequency groups cannot be split or merged
-        if(mp1.size() != mp2.size()) return false;
-
-        // Condition 1: Same character set must exist
+        // Condition 1: Both strings must have exactly the same set of characters
         for(auto &p : mp1){
             if(mp2.find(p.first) == mp2.end())
+                return false;
+        }
+        for(auto &p : mp2){
+            if(mp1.find(p.first) == mp1.end())
                 return false;
         }
 
