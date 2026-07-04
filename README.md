@@ -1,2 +1,4 @@
-Solutions of Leetcode 75 question
+Solutions 
+of
+Leetcode 75 question
 
