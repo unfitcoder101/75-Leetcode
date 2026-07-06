@@ -1,4 +1,6 @@
 Solutions 
 of
-Leetcode 75 question
+Leetcode
+75
+question
 
