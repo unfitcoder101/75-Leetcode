@@ -1,7 +1,7 @@
 class Solution {
 public:
-    int guessNumber(int n) {
-        long long left = 1, right = n;
+    int guessNumber(int num) {
+        long long left = 1, right = num;
 
         while(left <= right){
             long long mid = left + (right - left) / 2;
