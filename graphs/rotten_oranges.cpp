@@ -1,8 +1,12 @@
 /*
-PATTERN: Multi-Source BFS (Time Spread)
-Each BFS layer = 1 minute
+
+
+PATTERN: Multi-Source BFS (Time Spread)             
+Each BFS layer = 1 minute                 
 Used in: virus spread, fire spread, flood fill, network broadcast
-*/
+
+
+*/                   
 
 class Solution {
 public:
