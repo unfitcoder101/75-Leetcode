@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-// some little error or maybe not 
+// Have to do some corrections 
 
 class Solution {
 public:
