@@ -16,16 +16,16 @@ Personal DSA practice repository — C++ solutions to LeetCode problems, organiz
 
 ## Language
 
-C++
+C++                  
 
-## Why pattern-based
+## Why pattern-based               
 
-Grouping by technique instead of by difficulty or source list makes it faster to drill a specific weak area (e.g. "all binary search problems") instead of re-scanning solved problems scattered across unrelated topics.
+Grouping by technique instead of by difficulty or source list makes it faster to drill a specific weak area (e.g. "all binary search problems") instead of re-scanning solved problems scattered across unrelated topics.                 
 
-## Status
+## Status             
 
 Actively updated as new problems are solved and existing solutions are refined.
-
+                  
 ## Author
-
+              
 [@unfitcoder101](https://github.com/unfitcoder101)
