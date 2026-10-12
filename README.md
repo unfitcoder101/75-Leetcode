@@ -1,6 +1,6 @@
 # 75-Leetcode
 
-Personal DSA practice repository — C++ solutions to LeetCode problems, organized by pattern rather than by problem number, so each technique can be revisited and reviewed on its own before interviews.
+Personal DSA practice repository — C++ solutions to LeetCode problems, organized by pattern rather than by problem number, so each technique can be revisited and reviewed on its own before interviews. Later shifting the whole repo into my own project to look at its working and good user friendly management and tracking of the problems 
 
 ## Structure
 
